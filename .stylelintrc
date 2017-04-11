@@ -1,0 +1,10 @@
+{
+    "processors": ["stylelint-processor-styled-components"],
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "indentation": 4,
+        "shorthand-property-no-redundant-values": null,
+        "rule-empty-line-before": "never-multi-line"
+    },
+    "syntax": "css"
+}
